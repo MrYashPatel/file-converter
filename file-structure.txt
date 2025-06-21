@@ -1,0 +1,7 @@
+src/
+├── components/
+│   ├── FileUpload.js        # File input component
+│   ├── FileInfo.js          # Displays file metadata
+│   ├── FilePreview.js       # Preview logic for image, text, PDF
+│   └── TextFileReader.js    # Reads plain text files (used by preview)
+├── App.js                   # Root app container
